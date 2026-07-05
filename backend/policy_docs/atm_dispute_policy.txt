@@ -1,0 +1,17 @@
+Policy: ATM Cash Not Dispensed but Account Debited
+
+If a customer reports ATM cash not dispensed but account debited, bank staff must collect:
+- ATM location or ATM ID
+- Transaction date and time
+- Amount debited
+- Account last 4 digits
+- Transaction reference number
+- Whether receipt was generated
+- Whether the ATM belonged to same bank or another bank
+
+Recommended action:
+- Register dispute ticket.
+- Verify transaction status with ATM switch logs.
+- Mark the case for review, not immediate fraud escalation unless suspicious activity exists.
+- Inform customer that reversal investigation will be initiated.
+- Maintain record of the complaint and resolution status.

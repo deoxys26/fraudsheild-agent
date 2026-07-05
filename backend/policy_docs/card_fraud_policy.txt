@@ -1,0 +1,17 @@
+Policy: Unauthorized Card Transaction Handling
+
+If a customer reports a card transaction they did not perform, bank staff must collect:
+- Card last 4 digits
+- Transaction amount
+- Merchant name
+- Date and time of transaction
+- Whether card is physically with customer
+- Whether OTP was shared
+- Whether transaction was domestic or international
+
+Recommended action:
+- Temporarily block card if unauthorized use is suspected.
+- Raise card dispute/fraud ticket.
+- Escalate high-value or repeated unauthorized card transactions.
+- Advise customer not to share card number, CVV, OTP, or PIN.
+- Maintain audit trail for all officer actions.

@@ -1,0 +1,17 @@
+Policy: Unauthorized UPI Transaction Handling
+
+If a customer reports an unauthorized UPI transaction, bank staff must collect:
+- Transaction ID / UTR number
+- Date and time of transaction
+- Amount debited
+- UPI app used
+- Customer account last 4 digits
+- Whether UPI PIN, OTP, or device access was shared
+- Whether customer clicked any suspicious link
+
+Recommended action:
+- Temporarily restrict UPI access if account compromise is suspected.
+- Raise fraud complaint ticket immediately.
+- Escalate high-value or repeated unauthorized debit cases to fraud/risk team.
+- Advise the customer not to share OTP, PIN, passwords, or remote access.
+- Maintain audit log of all actions taken.

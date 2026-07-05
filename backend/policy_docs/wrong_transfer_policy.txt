@@ -1,0 +1,16 @@
+Policy: Wrong Beneficiary Transfer
+
+If a customer reports sending money to the wrong beneficiary or wrong UPI ID, bank staff must collect:
+- Transaction ID / UTR number
+- Date and time of transfer
+- Amount transferred
+- Beneficiary account or UPI ID
+- Customer account last 4 digits
+- Whether beneficiary is known or unknown
+
+Recommended action:
+- Register wrong transfer ticket.
+- Do not classify as fraud unless customer reports deception or unauthorized access.
+- Mark as medium priority for follow-up.
+- Initiate beneficiary bank communication process where applicable.
+- Maintain clear record of customer statement and transaction details.

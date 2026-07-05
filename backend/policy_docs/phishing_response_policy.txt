@@ -1,0 +1,20 @@
+Policy: Phishing / Fake KYC / Social Engineering Fraud
+
+If a customer reports clicking a fake KYC link, sharing OTP/PIN, installing unknown app, or losing money after a suspicious call/message, treat it as a high-risk fraud case.
+
+Bank staff must collect:
+- Transaction ID / UTR number
+- Date and time of transaction
+- Amount lost
+- Beneficiary account or UPI ID if available
+- Customer account last 4 digits
+- Link/app/phone number involved
+- Whether OTP, PIN, password, card details, or remote access was shared
+
+Recommended action:
+- Block or freeze affected digital banking access where appropriate.
+- Escalate immediately to fraud/risk team.
+- Create urgent fraud complaint ticket.
+- Send alert to responsible officer.
+- Advise customer not to delete messages, links, call logs, or screenshots.
+- Do not reveal internal fraud detection logic to customer.
